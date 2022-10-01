@@ -1,0 +1,38 @@
+.first{
+    background-color: cyan;
+    width: 100%;
+    height: 60px;
+    white-space: nowrap;
+    /* overflow-x: scroll; */
+    /* overflow-y: scroll; */
+    /* overflow: visible; */
+    overflow: auto;
+    /* overflow: scroll; */
+    /* overflow: hidden; */
+
+}
+h1{
+    color: green;
+}
+.second{
+    background-color: wheat;
+    height: 300px;
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+.third{
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+}
+.fourth{
+    background-color: bisque;
+    height: 200px;
+    width: 100%;
+}
+.fifth{
+    background-color: blueviolet;
+    height: 200px;
+    width: 100%;
+}

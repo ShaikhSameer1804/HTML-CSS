@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+    display: inline;
+}
+h2{
+    background-color: beige;
+    display: inline-block;
+}
+
+span{
+    display: block;
+}
+b{
+    display: inline-block;
+}
+    

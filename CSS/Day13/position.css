@@ -1,0 +1,24 @@
+.common{
+    height: 1200px;
+    width: 800px;
+    background-color: darkcyan;
+    margin: 20px;
+}
+.one{
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+}
+.two{
+    width: 200px;
+    height: 150px;
+    background-color: crimson;
+    position: sticky;
+    top: 50vh;
+    left: 100px;
+}
+.three{
+    width: 200px;
+    height: 150px;
+    background-color: lightgreen;
+}

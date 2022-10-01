@@ -1,0 +1,128 @@
+.one{
+border: 10px groove darkred;
+background-color: lightpink;
+height: 500px;
+width: 500px;
+display: inline-block;
+}
+.side{
+    /* display:inline-block; */
+    /* padding: 0px !important; */
+}
+.first{
+    background-color: violet;
+    height: 120px;
+    width: 100px;
+    position: relative;
+    left: 200px;
+    text-align: center;
+}
+.second{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+     position: relative; 
+    top: 85px;
+    text-align: center;
+}
+.main{
+    background-color: springgreen;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 200px;
+    left: 190px;
+    text-align: center;
+    border-radius: 75px;
+}
+.third{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute; 
+    top: 220px;
+    left: 400px;
+    text-align: center;
+}
+.fourth{
+    background-color: limegreen;
+    height: 120px;
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    left: 220px;
+    text-align: center;
+}
+.two{
+    background-color:coral;
+    border: 10px double darkred;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+}
+.a{
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+    text-align: center;
+}
+.b{
+    background-color: cyan;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 210px;
+    text-align: center;
+}
+.c{
+    background-color:rgb(70, 113, 187);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 90px;
+    left: 170px;
+    border-radius: 75px;
+     /* background-color: firebrick;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    position: sticky;
+    top: 175px;
+    left: 175px; */
+
+}
+.d{
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left:400px;
+    top: 210px;
+    text-align: center;
+}
+.z{
+    background-color: darkgrey;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    left: 197px;
+    text-align: center;
+}
+.icon{
+    color: rgb(188, 44, 44);
+}
+.fb{
+    color: blue;
+}
+.w{
+    color: lightgreen;
+
+}
+h1{
+    display: inline-block;
+}

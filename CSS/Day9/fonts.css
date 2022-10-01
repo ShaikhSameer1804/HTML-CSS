@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+    font-family: fantasy;
+    font-size: 30px;
+    font-style: oblique;
+    /* font-weight: lighter; */
+    text-decoration: line-through;
+    text-decoration-color: black;
+    text-decoration-style: double;
+    
+
+
+}
+p{
+    font-weight: bolder;
+}
+a{
+    /* text-decoration: none; */
+    text-decoration-line: none;
+}
+
+h2{
+    color: purple;
+    text-decoration: line-through solid white;
+    /* text-shadow: 3px 3px 2px black ;  right & bottom */
+    text-shadow: -3px -3px 3px black;    left & top
+    /* text-shadow: 3px 3px 2px orange, -3px -3px 2px green; both at once */
+}

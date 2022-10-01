@@ -1,0 +1,129 @@
+*{
+    margin: 0%; 
+ }
+ .main{
+    background-color: lightgrey;
+    height: 800px;
+    width: 100%;
+ }
+ .parent1{
+     width: 400px;
+     height: 500px;
+     background-color:rgb(225, 225, 225,225);
+     position: relative;
+     left: 12%;
+     top: 200px;
+     display: inline-block;
+     border-radius: 50px;
+ }
+ .blankDiv1{
+     height: 40%;
+     background-color: black;
+     position: relative;
+     white-space: nowrap;
+     overflow: auto;
+ }
+ .blankDiv1:hover{
+     box-shadow: -5px -5px 3px yellow,5px 0px 3px yellow;
+ }
+ .content1{
+     height: 60%;
+     padding: 0px 10% 0px 10%;
+     background-color: rgb(188, 226, 226);
+     border-radius: 0 0 40px 40px
+     
+ }
+ .content1:hover{
+     box-shadow: 5px 4px 3px rgb(131, 46, 60),-5px 0px 3px rgb(131, 46, 60);
+ }
+ .name1{
+ 
+     height: 25%;
+     font-size: 25px;
+     text-align: center;
+     color: green;
+ }
+ h1{
+     padding-top: 50px;
+ }
+ .title1{
+     height: 25%;
+     margin-top: 50px;
+     font-size: 25px;
+     text-align: center;
+     color: red;
+ }
+ .desc1{
+     /* height: 50%; */
+     font-size: 20px;
+     text-indent: 40px;
+     /* width: 80%; */
+ }
+ .profileImg1{
+    width: 100%;
+     /* position: relative;
+     bottom: 40%;
+     left: 25%;      */
+ }
+
+
+
+ .parent2{
+     width: 400px;
+     height: 500px;
+     background-color:rgb(225, 225, 225,225);
+     position: relative;
+     left: 25%;
+     top: 200px;
+     display: inline-block;
+     border-radius: 50px;
+ }
+ .blankDiv2{
+     height: 40%;
+     /* background-color: black; */
+     position: relative;
+     white-space: nowrap;
+     overflow: auto;
+ }
+ .blankDiv2:hover{
+     box-shadow: -5px -5px 3px green,5px 0px 3px green;
+ }
+ .content2{
+     height: 60%;
+     padding: 0px 10% 0px 10%;
+     background-color: rgb(233, 183, 121);
+     border-radius: 0 0 50px 50px;
+     
+ }
+ .content2:hover{
+     box-shadow: 5px 4px 3px blueviolet,-5px 0px 3px blueviolet;
+ }
+ .name2{
+ 
+     height: 25%;
+     font-size: 25px;
+     text-align: center;
+     color: darkred;
+ }
+ h1{
+     padding-top: 50px;
+ }
+ .title2{
+     height: 25%;
+     margin-top: 50px;
+     font-size: 25px;
+     text-align: center;
+     color: darkolivegreen;
+ }
+ .desc2{
+     /* height: 50%; */
+     font-size: 20px;
+     text-indent: 40px;
+     /* width: 80%; */
+ }
+ .profileImg2{
+    width: 100%;
+     /* position: relative;
+     bottom: 40%;
+     left: 25%;      */
+ }

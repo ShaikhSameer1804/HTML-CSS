@@ -1,0 +1,54 @@
+.nav{
+    height:100px;
+    background-color: burlywood;
+}
+h1{
+    display: none;
+}
+a{
+    color: chartreuse;
+    line-height: 100px;
+    font-size: 20px;
+    padding: 20px;
+}
+.main{
+    background-color: turquoise;
+}
+.left{
+    width: 21%;
+    height: 800px;
+    background-color: rgb(239, 71, 96);
+    margin: 10px;
+    float: left;
+}
+.center{
+    width: 50%;
+    height: 800px;
+    background-color: lightcoral;
+    margin: 10px;
+    float: left;
+}
+.right{
+    width: 21%;
+    height: 800px;
+    background-color: lime;
+    margin: 10px;
+    float: left;
+}
+.cardparent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+}
+.card{
+    background-color: rgb(151, 105, 151);
+    width: 23%;
+    height: 400px;
+    margin: 5px;
+}
+@media screen and (max-width 100px){
+    
+    
+}

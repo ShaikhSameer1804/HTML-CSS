@@ -1,0 +1,27 @@
+.parent{
+   background-color: cadetblue;
+   height: 1200px;
+   width: 600px;
+   border: 25px dotted black;
+   padding: 50px;
+   opacity: 1;
+   background-image: url(../css-3-logo.png);
+   background-size:contain;
+   /* background-size: auto; */
+   /* background-size: contain; */
+   background-repeat: no-repeat;
+   /* background-position: right top; */
+   /* background-attachment: fixed; */
+   background-origin: content-box;
+   background-clip: content-box;
+   
+
+
+
+
+}
+.dummy{
+    width: 600px;
+    height: 1200px;
+    background-color: tomato;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: slategray;
+}
+h1{
+
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 5px;
+}
+span{
+    background-color: slateblue;
+    height: 200px;
+    width: 200px;
+    display:block ;
+
+}
+   

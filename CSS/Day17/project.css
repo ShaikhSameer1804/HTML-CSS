@@ -1,0 +1,77 @@
+body{
+    /* background-image: url(../././AAAAAA/Background\ Image.jpg); */
+    background-color: rgb(198, 241, 241);
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.one{
+    background-color:#cf6766;
+    height: 200px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.brandname{ 
+    display: inline-block;
+    color: white;
+    position: relative;
+    bottom: 30%;
+    left: %;
+    font-size: 85px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+   /* text-decoration-line: line-through white; */
+   margin: 0px;
+   padding: 0px;
+   border: 0px;
+}
+nav{
+    font-size: 50px;
+    /* text-decoration-color: black; */
+    text-decoration-color: white;
+    /* background-color: gray; */
+    color: white;
+    text-decoration: none ;
+}
+a:hover{
+    background-color: black;
+}
+.nav{
+    position: relative;
+    left: 58%;
+    display: inline-block;
+    bottom: 50px;
+}
+#search{
+    text-size-adjust: 10px;
+}
+ul{
+    display: inline-block;
+}
+input{
+    font-size: 50px;
+}
+/* marquee{
+    font-size: 20px;
+    /* color: green; */
+    /* background-color: slategrey; */
+} */
+#first{
+    font-size: 200px;
+    text-align: center;
+    color: green;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+figure{
+    white-space: nowrap;
+    overflow-y: auto;
+}
+
+#1{
+    text-align: center;
+    
+}
